@@ -1,12 +1,27 @@
-Timestamp microservice as part of FCC curriculum
-https://www.freecodecamp.org/challenges/timestamp-microservice
+Welcome to the Glitch BETA
+=========================
 
-1) I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
-2) If it does, it returns both the Unix timestamp and the natural language form of that date.
-3) If it does not contain a date or Unix timestamp, it returns null for those properties.
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-Example usage:
-https://[appaddress]/December%2015,%202015 or https://[appaddress]/1450137600
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
-Example output:
-{ "unix": 1450137600, "natural": "December 15, 2015" }
+Find out more [about Glitch](https://glitch.com/about).
+
+
+Your Project
+------------
+
+On the front-end,
+- edit `public/client.js`, `public/style.css` and `views/index.html`
+- drag in `assets`, like images or music, to add them to your project
+
+On the back-end,
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+
+
+Made by [Fog Creek](https://fogcreek.com/)
+-------------------
+
+\ ゜o゜)ノ
